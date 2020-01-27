@@ -1,6 +1,6 @@
 <iframe width="100%" height="300" src="https://zlogs.net/simple-search/simple-iframe" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
-<br /><br />
+
 
 | 名称                                                         | 备注                  |
 | ------------------------------------------------------------ | --------------------- |
