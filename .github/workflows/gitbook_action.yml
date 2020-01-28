@@ -36,6 +36,7 @@ jobs:
         gitbook install
     - name: build_gitbook
       run: |
+        ls
         gitbook build
     - name: push_to_pages
       run: |
