@@ -4,12 +4,6 @@
   "description": "collect - Zander's Book",
   "language": "zh-hans",
   "gitbook": "3.2.3",
-  "links": {
-    "sidebar": {  
-        "# 博客": "https://zlogs.net",
-        "# 总目录": "https://zlogs.net/learn-books"
-      }
-  },
   "plugins": [
     "-lunr",
     "-search",
@@ -40,7 +34,7 @@
       "distractionFreeMode": false
     },
     "edit-link": {
-      "base": "https://github.com/ZanderZhao/collect/edit/master/",
+      "base": "https://github.com/ZanderZhao/collect/edit/master/source/",
       "label": "编辑本页"
     },
     "donate": {

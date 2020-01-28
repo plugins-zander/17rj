@@ -37,9 +37,12 @@ jobs:
     - name: build_gitbook
       run: |
         ls
+        cd source
         gitbook build
     - name: push_to_pages
       run: |
+        ls
+        cd source
         cd ./_book
         git init
         git config --local user.name "${{ secrets.GIT_NAME }}"
