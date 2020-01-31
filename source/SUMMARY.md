@@ -1,6 +1,6 @@
 # Summary
 
-* [速览](README.md)
+* [CMaker](README.md)
 
 ## 学校
 * [校园](books/1011.md)
