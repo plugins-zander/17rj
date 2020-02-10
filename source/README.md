@@ -4,7 +4,7 @@
 
 | 名称                                                         | 备注                  |
 | ------------------------------------------------------------ | --------------------- |
-| [公告](https://mubu.com/doc/explore/25229)                   | 作业通知          |
+| [公告](https://mubu.com/doc/explore/25229)                   | 作业和通知       |
 | [课表](https://www.kdocs.cn/l/shp2dqHJG)                     | 班级课表 |
 | [课程资料]( https://bjxy.zlogs.net/) | 课件等下载 |
 | [课程选题](https://docs.qq.com/blankpage/DZEVNclRNZHR1U0Z2?tab=BB08J2&c=B1A0B0) | 课程选题              |
