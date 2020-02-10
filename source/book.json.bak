@@ -10,10 +10,16 @@
     "-sharing",
     "theme-simple@git+https://github.com/plugins-zander/gitbook-plugin-theme-simple.git",
     "search-pro@git+https://github.com/plugins-zander/gitbook-plugin-search-pro.git",
+    "katex@git+https://github.com/plugins-zander/gitbook-plugin-katex.git",
     "splitter@git+https://github.com/plugins-zander/gitbook-plugin-splitter.git",
+    "mygitalk@git+https://github.com/plugins-zander/gitbook-plugin-mygitalk.git",
     "edit-link@git+https://github.com/plugins-zander/gitbook-plugin-edit-link.git",
+    "donate@git+https://github.com/plugins-zander/gitbook-plugin-donate.git",
     "sitemap-general@git+https://github.com/plugins-zander/gitbook-plugin-sitemap-general.git",
+    "tbfed-pagefooter@git+https://github.com/plugins-zander/gitbook-plugin-tbfed-pagefooter.git",
+    "todo@git+https://github.com/plugins-zander/gitbook-plugin-todo.git",
     "chapter-fold@git+https://github.com/plugins-zander/gitbook-plugin-chapter-fold.git",
+    "copy-code-button@git+https://github.com/plugins-zander/gitbook-plugin-copy-code-button.git",
     "page-toc@git+https://github.com/plugins-zander/gitbook-plugin-page-toc.git"
   ],
   "pluginsConfig": {
