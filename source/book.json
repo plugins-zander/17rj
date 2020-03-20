@@ -20,15 +20,15 @@
   "pluginsConfig": {
     "edit-link": {
       "base": "https://github.com/ZanderZhao/collect/edit/master/source/",
-      "label": "编辑本页"
-    }
+      "label": "EDIT"
+    },
     "sitemap-general": {
       "prefix": "https://zlogs.net/collect/"
     },
     "tbfed-pagefooter": {
       "copyright": "",
       "modify_bszlabel": "<span id=\"busuanzi_container_page_pv\">View Count: <span id=\"busuanzi_value_page_pv\"></span></span>",
-      "modify_label": "最新修订时间：",
+      "modify_label": " Edit time：",
       "modify_format": "YYYY-MM-DD HH:mm:ss"
     },
     "page-toc": {
