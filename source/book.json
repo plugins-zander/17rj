@@ -1,40 +1,19 @@
 {
-  "title": "collect",
+  "title": "17软件1",
   "author": "Zander Zhao",
-  "description": "collect - Zander's Book",
+  "description": "17软件1",
   "language": "zh-hans",
   "gitbook": "3.2.3",
   "plugins": [
-    "-lunr",
-    "-search",
     "-sharing",
-    "theme-simple@git+https://github.com/plugins-zander/gitbook-plugin-theme-simple.git",
-    "search-pro@git+https://github.com/plugins-zander/gitbook-plugin-search-pro.git",
+    "theme-simple@git+https://github.com/plugins-zander/gitbook-plugin-theme-simple.git"
     "splitter@git+https://github.com/plugins-zander/gitbook-plugin-splitter.git",
-    "edit-link@git+https://github.com/plugins-zander/gitbook-plugin-edit-link.git",
-    "sitemap-general@git+https://github.com/plugins-zander/gitbook-plugin-sitemap-general.git",
-    "chapter-fold@git+https://github.com/plugins-zander/gitbook-plugin-chapter-fold.git",
-    "tbfed-pagefooter@git+https://github.com/plugins-zander/gitbook-plugin-tbfed-pagefooter.git",
-    "page-toc@git+https://github.com/plugins-zander/gitbook-plugin-page-toc.git"
+    "edit-link@git+https://github.com/plugins-zander/gitbook-plugin-edit-link.git"
   ],
   "pluginsConfig": {
     "edit-link": {
-      "base": "https://github.com/ZanderZhao/collect/edit/master/source/",
+      "base": "https://github.com/ZanderZhao/rj1/edit/master/source/",
       "label": "EDIT"
-    },
-    "sitemap-general": {
-      "prefix": "https://zlogs.net/collect/"
-    },
-    "tbfed-pagefooter": {
-      "copyright": "",
-      "modify_bszlabel": "<span id=\"busuanzi_container_page_pv\">View Count: <span id=\"busuanzi_value_page_pv\"></span></span>",
-      "modify_label": " Edit time：",
-      "modify_format": "YYYY-MM-DD HH:mm:ss"
-    },
-    "page-toc": {
-      "selector": ".markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4",
-      "position": "before-first",
-      "showByDefault": true
     }
   }
 }

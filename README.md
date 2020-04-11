@@ -1,9 +1,8 @@
-# collect
+17软件1
 
 作用
 
-+ 网站收集
-+ 自定义导航站
++ 17软件网址相关
 
 支持
 
@@ -12,7 +11,7 @@
 
 展示
 
-+ 导航站 <https://zlogs.net/collect/>
++ 导航站 <https://zlogs.net/rj1/>
 + 搜索 <https://zlogs.net/simple-search/>
 
 说明
