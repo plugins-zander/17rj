@@ -6,7 +6,7 @@
   "gitbook": "3.2.3",
   "plugins": [
     "-sharing",
-    "theme-simple@git+https://github.com/plugins-zander/gitbook-plugin-theme-simple.git"
+    "theme-simple@git+https://github.com/plugins-zander/gitbook-plugin-theme-simple.git",
     "splitter@git+https://github.com/plugins-zander/gitbook-plugin-splitter.git",
     "edit-link@git+https://github.com/plugins-zander/gitbook-plugin-edit-link.git"
   ],
