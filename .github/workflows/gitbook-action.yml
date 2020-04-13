@@ -18,7 +18,7 @@ jobs:
         token: ${{ secrets.PERSONAL_TOKEN }}
         time_zone: Asia/Shanghai
         source_dir: source
-        publish_cname: cmaker.tech www.cmaker.tech 17rj.cf
+        publish_cname: 17rj.cf
         publish_commit_message: ${{ github.event.head_commit.message }}
 
 

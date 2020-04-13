@@ -1,6 +1,6 @@
 # Summary
 
-* [CMaker](README.md)
+* [17rj class file](README.md)
 
 ## 网站
 * [南信大滨江](page/school/nuist.edu.cn.md)
