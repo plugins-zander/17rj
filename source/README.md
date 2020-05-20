@@ -6,7 +6,7 @@
 | ------------------------------------------------------------ | --------------------- |
 | [公告](https://mubu.com/doc/explore/25229)               | 作业和通知       |
 | [课表](https://www.kdocs.cn/l/shp2dqHJG)                     | 班级课表 |
-| [课程资料](https://zdir.herokuapp.com/) | 课件下载/作业上传 |
+| [课程资料](https://dir.zlogs.net/) | 课件下载/作业上传 |
 | [课程选题](https://docs.qq.com/blankpage/DZEVNclRNZHR1U0Z2?tab=BB08J2&c=B1A0B0) | 课程选题等表格      |
 |                                                              |                       |
 | [信大在线](http://nuist.fanya.chaoxing.com/portal) | 学习通 |
