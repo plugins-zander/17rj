@@ -1,7 +1,3 @@
-# Summary
-
-* [17rj class file](README.md)
-
-## 网站
+* [index](README.md)
 * [南信大滨江](page/school/nuist.edu.cn.md)
 * [站点](page/website.md)
